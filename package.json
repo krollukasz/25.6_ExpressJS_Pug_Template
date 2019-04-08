@@ -1,0 +1,31 @@
+{
+  "name": "25.6_expressjs_pug_template",
+  "version": "1.0.0",
+  "description": "ExpressJS - Pug Template",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "pug": "^2.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krollukasz/25.6_ExpressJS_Pug_Template.git"
+  },
+  "keywords": [
+    "ExpressJS",
+    "Pug",
+    "First_Steps",
+    "Learning"
+  ],
+  "author": "Łukasz Król",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krollukasz/25.6_ExpressJS_Pug_Template/issues"
+  },
+  "homepage": "https://github.com/krollukasz/25.6_ExpressJS_Pug_Template#readme"
+}
