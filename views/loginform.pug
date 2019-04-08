@@ -1,0 +1,13 @@
+doctype html
+html
+  head
+    title="Login form"
+    style
+      include ../style/style.css
+  body
+    h2 Please sign in
+    p First name
+      input(type="text", name="first-name")
+    p Last name
+      input(type="text", name="last_name")
+    a.confirm(href="/auth/google") Confimr
